@@ -1,26 +1,75 @@
 # Tech Journey Log
 
-This repository documents my transition from a BBA graduate to a future software engineer through self-study.
+This repository documents my transition from a BBA graduate to an aspiring software engineer through structured self-study, projects, and continuous learning.
 
 ## Purpose
 
-To maintain a public record of my learning progress, projects, challenges, and reflections throughout my software engineering journey.
+The goal of this repository is to maintain a public record of my progress, projects, challenges, lessons learned, and milestones throughout my software engineering journey.
 
-## Current Roadmap
+## Learning Roadmap
 
-- Computational Thinking
-- Web Foundations
-- Frontend Development
-- Backend Engineering
-- Full Stack Projects
-- Employability & Interview Preparation
+### Phase 0 – Computational Thinking
 
-## Daily Logs
+* Problem Solving
+* Algorithms
+* Programming Fundamentals
 
-- Day 1: Environment setup and CS50 Week 0
-- Day 2: Scratch project completion
-- Day 3: First HTML project and GitHub setup
+### Phase 1 – Web Foundations
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+### Phase 2 – Frontend Development
+
+* React
+* APIs
+* Modern Frontend Development
+
+### Phase 3 – Backend Engineering
+
+* Node.js
+* Databases
+* Authentication
+* REST APIs
+
+### Phase 4 – Full Stack Projects
+
+* Portfolio Projects
+* Deployment
+* Real-World Applications
+
+### Phase 5 – Employability
+
+* Data Structures & Algorithms
+* Interview Preparation
+* Resume & Portfolio Development
+
+## Daily Learning Logs
+
+* Day 1 – Environment Setup & CS50 Week 0
+* Day 2 – Scratch Project Completion
+* Day 3 – First HTML Project & GitHub Setup
+
+## Current Progress
+
+* Git & GitHub Setup
+* VS Code Environment Setup
+* CS50 Week 0 Completed
+* First Scratch Project Published
+* First HTML Project Created
 
 ## Goal
 
-Build practical skills, create projects, and become employable in software engineering.
+Build strong software engineering fundamentals, create meaningful projects, develop a professional portfolio, and become employable in the tech industry.
+
+## Repository Structure
+
+day1.md → Learning Log Day 1
+
+day2.md → Learning Log Day 2
+
+day3.md → Learning Log Day 3
+
+README.md → Repository Overview
